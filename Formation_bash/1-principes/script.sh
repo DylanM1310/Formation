@@ -15,7 +15,7 @@ echo "
 
 Options :
 
-	--create : si aucun chiffre 2 conteneurs sinon x conteneurs seront créés
+	--create : si aucun chiffre 1 conteneurs sinon x conteneurs seront créés
 
 	--drop : pour supprimer les conteneurs créés via ce script par l'utilisateur
 
