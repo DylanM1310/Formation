@@ -1,0 +1,7 @@
+installe git
+
+crée un répertoire ~/workspace
+
+crée un fichier repos.txt avec une liste de repos git (cat <<EOF)
+
+pour chaque ligne de ce fichier, clone le repo s’il n’existe pas (ou fait un pull s’il existe)
