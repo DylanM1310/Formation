@@ -1,6 +1,5 @@
 installe git
 
-crée un répertoire ~/workspace
 
 crée un fichier repos.txt avec une liste de repos git (cat <<EOF)
 
