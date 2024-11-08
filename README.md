@@ -4,7 +4,7 @@ Le repository a pour but de me former sur divers services et langage en utilisan
 
 Les services et langage dans le repo : 
 
-    - Git
+    -Git
     -Bash
 
 
