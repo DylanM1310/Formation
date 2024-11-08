@@ -17,7 +17,7 @@ Options :
 
 	--create : si aucun chiffre 2 conteneurs sinon x conteneurs seront créés
 
-	--drop : pour supprimer les conteneurs créés via ce script par ${USER}
+	--drop : pour supprimer les conteneurs créés via ce script par l'utilisateur
 
 	--start : pour redémarrer les conteneurs
 
